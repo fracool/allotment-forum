@@ -21,3 +21,6 @@
     position: relative;
     min-height: 100vh; /* Adjust height as required */
 }
+.img-30{
+    max-width: 30%;
+}
